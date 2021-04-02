@@ -1,0 +1,18 @@
+MyOwnRepCreate
+
+1. Go to get Create repo
+2. Copy SHA 
+3. In terminal git clone SHA
+4. git remove -v to confirm my orgin
+ ( my placeholder name for the URL of the remote repository.)
+ is the same as my SHA
+
+ Done
+
+
+ Use the Git workFlow?
+
+ git add . : means only in the current directory do I want to stage all the files
+ 
+
+ 
