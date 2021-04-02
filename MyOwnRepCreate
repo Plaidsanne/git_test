@@ -13,6 +13,6 @@ MyOwnRepCreate
  Use the Git workFlow?
 
  git add . : means only in the current directory do I want to stage all the files
- 
+ git push origin main: 
 
  
